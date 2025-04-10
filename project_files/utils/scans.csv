@@ -1,0 +1,2 @@
+﻿scan_id,scan_type,duration,priority,patient_id,check_in_date,check_in_time
+S8,MRI,60,1,28,2025-03-26,18:30
